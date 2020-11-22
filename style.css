@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+.disk {
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+#grey{
+    background: grey;
+}
+
+#white{
+    background: white;
+}
+#blue{
+    background: blue;
+}
+#yellow{
+    background: yellow;
+}
